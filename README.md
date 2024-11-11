@@ -17,8 +17,12 @@ This project reads an XML file containing student data, parses it using TypeScri
    ```bash
    git clone https://github.com/ceilocg/xml-student-display.git
    cd xml-student-display
+2. Install all required dependencies defined in the package.json file, including ts-node and xml2js.:
    ```bash
    npm install
+   npm install typescript ts-node xml2js
+
+3. Run
       ```bash
    npx ts-node readXml.ts
 
