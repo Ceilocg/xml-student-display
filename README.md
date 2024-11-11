@@ -17,3 +17,9 @@ This project reads an XML file containing student data, parses it using TypeScri
    ```bash
    git clone https://github.com/ceilocg/xml-student-display.git
    cd xml-student-display
+   ```bash
+   npm install
+      ```bash
+   npx ts-node readXml.ts
+
+
