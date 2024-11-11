@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<students>
+    <student id="1">
+        <firstName>John</firstName>
+        <lastName>Doe</lastName>
+        <middleName>Michael</middleName>
+        <age>15</age>
+        <sex>Male</sex>
+        <emailAddress>john.doe@example.com</emailAddress>
+        <gradeLevel>10</gradeLevel>
+        <section>A</section>
+    </student>
+    <student id="2">
+        <firstName>Jane</firstName>
+        <lastName>Smith</lastName>
+        <middleName>Anne</middleName>
+        <age>16</age>
+        <sex>Female</sex>
+        <emailAddress>jane.smith@example.com</emailAddress>
+        <gradeLevel>11</gradeLevel>
+        <section>B</section>
+    </student>
+</students>
